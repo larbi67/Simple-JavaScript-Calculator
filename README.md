@@ -24,6 +24,6 @@ This project is licensed under the [MIT License](LICENCE.md).
 
 ---
 
-**Author**: [Your Name]
+**Author**: Larbi OUIYZME
 
 **Version**: 1.0
