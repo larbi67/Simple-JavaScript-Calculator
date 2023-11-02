@@ -20,7 +20,7 @@ This is a simple JavaScript calculator that allows you to perform basic arithmet
 
 ## License
 
-This project is licensed under the [MIT License](LICENCE.md).
+This project is licensed under the [MIT License](LICENSE.md).
 
 ---
 
