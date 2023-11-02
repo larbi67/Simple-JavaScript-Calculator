@@ -1,4 +1,4 @@
-# JavaScript Calculator
+# Simple JavaScript Calculator
 
 ![Calculator Screenshot](screenshot.png)
 
